@@ -172,8 +172,8 @@
     <!-- Onboarding -->
     <string name="onboarding_app_description">Podcast App</string>
     <string name="onboarding_app_get_started">Get Started</string>
-    <string name="onboarding_app_hypercritical_quote_1" translatable="false">Nothing is so perfect</string>
-    <string name="onboarding_app_hypercritical_quote_2" translatable="false">that it can\'t be complained about.</string>
+    <string name="onboarding_app_hypercritical_quote_1">Nothing is so perfect</string>
+    <string name="onboarding_app_hypercritical_quote_2">that it can\'t be complained about.</string>
     <string name="player_sheet_p_no_data" translatable="false">-</string>
     <!-- Sample Text -->
     <string name="sample_text_episode_0_chapter" translatable="false">The first Internet worms of 2005</string>

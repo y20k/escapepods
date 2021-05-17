@@ -72,6 +72,7 @@
     <string name="toast_message_downloading_episode">正在下载节目。</string>
     <string name="toast_message_error_download_error">下载错误</string>
     <string name="toast_message_error_feed_not_supported">不支持的源（application/Atom+XML）。</string>
+    <string name="toast_message_error_file_type_unknown">无法处理下载。文件类型：</string>
     <string name="toast_message_error_missing_storage_permission">请授予“读取存储“权限以打开此文件。</string>
     <string name="toast_message_error_no_podcast_found">无法开始回放。请先添加一个播客。</string>
     <string name="toast_message_error_no_podcast_matches_search">找不到符合您搜索条件的播客。</string>
@@ -168,5 +169,6 @@
     <!-- Onboarding -->
     <string name="onboarding_app_description">播客程序</string>
     <string name="onboarding_app_get_started">开始</string>
-    <string name="toast_message_error_file_type_unknown">无法处理下载。文件类型：</string>
+    <string name="onboarding_app_hypercritical_quote_1">世事无完美</string>
+    <string name="onboarding_app_hypercritical_quote_2">知者不怨天</string>
 </resources>
